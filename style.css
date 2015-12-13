@@ -24,3 +24,72 @@ p4  {
     font-family:AR DESTINE;
     font-size:200%;
 }
+
+.map {
+    position: relative;
+    display: block;
+    width: 1440px;
+    height: 1440px;
+    background-size: cover;
+    background-image: url(assets/SC-Map-v2.png);
+}
+
+.map a {
+    position: absolute;
+    display: block;
+    background-color: red;
+}
+
+.map a#Hydrus {
+    height: 200px;
+    width: 200px;
+    top: 651px;
+    left: 614px;
+    
+}
+.map a#Terra {
+    height: 100px;
+    width: 100px;
+    top: 355px;
+    left: 717px;
+}
+
+
+.map a#Jorin {
+    height: 100px;
+    width: 100px;
+    top: 143px;
+    left: 862px;
+}
+
+
+.map a#Olselon {
+    height: 120px;
+    width: 120px;
+    top: 415px;
+    left: 1119px;
+}
+
+
+.map a#Satura {
+    height: 120px;
+    width: 120px;
+    top: 684px;
+    left: 1063px;
+}
+
+
+.map a#Magmo {
+    height: 100px;
+    width: 100px;
+    top: 842px;
+    left: 882px;
+}
+
+
+.map a#Gauus {
+    height: 100px;
+    width: 100px;
+    left: 371px;
+    top: 1041px;
+}
